@@ -72,10 +72,11 @@ To obtain these values:
 
 ```
 spotify_top50_study/
-├── imgs/           # Images used in README and notebook
+├── imgs/              # Images used in README and notebook
 │   └── banner.png
-├── .env            # Your Spotify client_id and client_secret
-└── spotify.ipynb   # Jupyter Notebook with full analysis
+├── .env               # Your Spotify client_id and client_secret
+├── spotify.ipynb      # Jupyter Notebook with full analysis
+└── requirements.txt   # File with necessary python libs to install
 ```
 
 <br/>
